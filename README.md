@@ -3,6 +3,8 @@
 
 🔷 Fclone is just another Tool like Autorclone/Folderclone/Gclone to bypass 750GB limit by google (more optimised for speed)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/bolavefasfas/ufgviukasfinsak)
+
 ## 📗 Pre-requisites:-
 1. [Install Python 3.7+](https://www.python.org/downloads/)（Latest version 3.8.3 recommended）
 2. You need Generated SAs (using [Autorclone](https://github.com/xyou365/AutoRclone) or [Folderclone](https://github.com/Spazzlo/folderclone))
